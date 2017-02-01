@@ -1,0 +1,18 @@
+{
+  "name": "vg-push",
+  "version": "1.0.0",
+  "description": "Get push notification natively",
+  "main": "index.js",
+  "repository": {},
+  "author": "Bjarne Oeverli",
+  "scripts": {
+    "start": "node index.js",
+    "start:linux": "lil-pids ./.services ./.pids"
+  },
+  "dependencies": {
+    "eventsource": "^0.2.1",
+    "instantly": "^1.4.1",
+    "lil-pids": "^2.6.0",
+    "node-notifier": "^5.0.2"
+  }
+}
