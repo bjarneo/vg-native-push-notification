@@ -13,6 +13,6 @@
     "eventsource": "^0.2.1",
     "instantly": "^1.4.1",
     "lil-pids": "^2.6.0",
-    "node-notifier": "^5.0.2"
+    "node-notifier": "^8.0.1"
   }
 }
