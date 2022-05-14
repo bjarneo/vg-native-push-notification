@@ -10,7 +10,7 @@
     "start:linux": "lil-pids ./.services ./.pids"
   },
   "dependencies": {
-    "eventsource": "^0.2.1",
+    "eventsource": "^2.0.2",
     "instantly": "^1.4.1",
     "lil-pids": "^2.6.0",
     "node-notifier": "^5.0.2"
